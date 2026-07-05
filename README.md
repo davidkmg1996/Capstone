@@ -5,6 +5,8 @@ for faculty advisor Dr. Mohammadreza Hajiarbabi
 
 Capstone project for 2025-2026
 
+Project presentation can be found at https://www.youtube.com/watch?v=JaKG5H5lJT8&t=1505s
+
 
 Skeletons are templates that we can ignore, use for testing, or build upon during development
 
