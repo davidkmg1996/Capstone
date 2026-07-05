@@ -1,0 +1,8 @@
+*.sh
+
+# ignore all venv folders in any directory
+**/venv/
+**/.venv/
+
+# ignore any pyc files in any directory
+**/*.pyc

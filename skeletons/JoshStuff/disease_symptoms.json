@@ -1,0 +1,137 @@
+[
+    {
+        "disease":"Cedar Apple Rust",
+        "symptoms":null
+    },
+    {
+        "disease":"Black Rot",
+        "symptoms":[
+            "Tan",
+            "Sunken",
+            "Black-Lesions",
+            "Black-Veins",
+            "Rotting",
+            "Brown",
+            "Wilt",
+            "Blotchy"
+        ]
+    },
+    {
+        "disease":"Healthy",
+        "symptoms":null
+    },
+    {
+        "disease":"Apple Scab",
+        "symptoms":null
+    },
+    {
+        "disease":"Bacterial Spot",
+        "symptoms":[
+            "Oily",
+            "Yellow",
+            "Greasy",
+            "Black",
+            "Scorched",
+            "Purple",
+            "Brown",
+            "Brown-Lesions",
+            "Watery",
+            "Halo",
+            "Spots"
+        ]
+    },
+    {
+        "disease":"Powdery Mildew",
+        "symptoms":[
+            "Distortion",
+            "Yellow",
+            "Sunscald",
+            "Powdery",
+            "Fuzzy",
+            "Brown",
+            "Blotchy",
+            "Spots"
+        ]
+    },
+    {
+        "disease":"Cercospora Leaf Spot",
+        "symptoms":null
+    },
+    {
+        "disease":"Common Rust",
+        "symptoms":null
+    },
+    {
+        "disease":"Northern Leaf Blight",
+        "symptoms":[
+            "Elliptical-Lesions",
+            "Parallel-Lesions",
+            "Tan",
+            "Green-Lesions",
+            "Black-Lesions",
+            "Spores",
+            "Watery",
+            "Yellow-Lesions"
+        ]
+    },
+    {
+        "disease":"Leaf Blight",
+        "symptoms":null
+    },
+    {
+        "disease":"Esca (Black Measles)",
+        "symptoms":null
+    },
+    {
+        "disease":"Leaf Scorch",
+        "symptoms":[
+            "Sunken",
+            "Blotchy",
+            "Scorched",
+            "Purple",
+            "Brown",
+            "Discolored-Streaks",
+            "Spots"
+        ]
+    },
+    {
+        "disease":"Early Blight",
+        "symptoms":[
+            "White-Mold",
+            "Circular",
+            "Black",
+            "Rings",
+            "Brown"
+        ]
+    },
+    {
+        "disease":"Late Blight",
+        "symptoms":[
+            "Oily",
+            "Collapsed",
+            "Fuzzy",
+            "Greasy",
+            "Watery",
+            "Halo",
+            "Shriveled"
+        ]
+    },
+    {
+        "disease":"Septoria Leaf Spot",
+        "symptoms":[
+            "Tan",
+            "Green-Lesions",
+            "Black-Specks",
+            "Yellow",
+            "Sunscald",
+            "Discolored",
+            "Brown",
+            "Halo",
+            "Spots"
+        ]
+    },
+    {
+        "disease":"Yellow Leaf Curl Virus",
+        "symptoms":null
+    }
+]

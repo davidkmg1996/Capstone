@@ -1,0 +1,48 @@
+TensorFlow image tutorial documentation:
+https://www.tensorflow.org/tutorials/images
+
+Advanced image recognition:
+https://link.springer.com/article/10.1007/s42991-021-00180-9
+
+TensorFlow image classification documentation
+https://www.tensorflow.org/tutorials/images/classification
+
+Expert Systems in AI:
+https://pythongeeks.org/expert-systems-in-ai/
+
+Fundamentals of Expert Systems:
+https://faculty.ist.psu.edu/vhonavar/Courses/ai100/expsysreview.pdf
+
+Principles of Expert Systems:
+http://ris.utwente.nl/ws/portalfiles/portal/300207630/Lucas_principles.pdf
+
+OpenCV documentation:
+https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+
+Computer vision with TensorFlow:
+https://www.tensorflow.org/tutorials/images
+
+GitHub expert systems repos:
+https://github.com/mikeroyal/Expert-Systems-Guide
+https://github.com/topics/expert-system
+https://github.com/buguroo/pyknow
+
+AI-Based Computer Vision Techniques and Expert Systems:
+https://www.mdpi.com/2673-2688/4/1/13
+
+d3web:
+https://www.d3web.de/
+
+PlantVillage:
+https://plantvillage.psu.edu/
+
+Adam: A Method for Stochastic Optimization:
+https://www.semanticscholar.org/reader/a6cb366736791bcccc5c8639de5a8f9636bf87e8
+
+Fuzzy Expert Systems:
+https://welib.org/md5/97ea3fd97af95ab2b411d6dd7b0b8db4
+
+The Handbook of APPLIED EXPERT SYSTEMS:
+https://welib.org/md5/73c3991a293d318f4ec3f24feb7e9fde
+
+

@@ -1,0 +1,31 @@
+Install gcloud CLI/Docker/Make
+
+**I am using WSL**
+
+1.) Login to CloudRun
+gcloud auth login (or gcloud auth login --no-browser)
+
+2.) Choose Our Project
+gcloud config set project academic-pillar-477019-m8
+
+- If you receive a message similar to
+Your browser has been opened to visit:
+
+https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=32555940559.apps.googleusercontent.com&redirect_uri=...
+
+gio: https://accounts.google.com/o/oauth2/auth?response_type=..
+
+- ctrl+click the first link and use browser to log in
+
+3.)Navigate to cr-service directory
+
+-Make changes to backend (Either in nano/vim or preferred text editor or VS Code or whichever IDE you prefer)
+
+4.) Build
+make build
+
+5.) Push
+make push
+
+6.) Deploy to Cloudrun
+make deploy

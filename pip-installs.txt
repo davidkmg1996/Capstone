@@ -1,0 +1,14 @@
+pip install experta
+pip install tensorflow
+pip install scikit-learn
+pip install pydantic
+pip install fastapi
+pip install opencv-contrib-python
+pip install fastapi
+pip isntall uvicorm
+pip install flask
+pip install fpdf2
+pip install kagglehub
+pip install pygame
+
+Add and update as needed

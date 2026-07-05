@@ -1,0 +1,5202 @@
+[
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\00075aa8-d81a-4184-8541-b692b78d398a___FREC_Scab 3335.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\01a66316-0e98-4d3b-a56f-d78752cd043f___FREC_Scab 3003.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50634765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\01f3deaa-6143-4b6c-9c22-620a46d8be04___FREC_Scab 3112.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498779296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0208f4eb-45a4-4399-904e-989ac2c6257c___FREC_Scab 3037.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\023123cb-7b69-4c9f-a521-766d7c8543bb___FREC_Scab 3487.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0261a6e4-21f8-481a-8827-b674e6955644___FREC_Scab 3055.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\029424b0-0ef5-491b-9ef5-069190d24d8f___FREC_Scab 3504.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\03354abb-aa1c-4f9d-a1ef-9f40505cd539___FREC_Scab 3355.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0340dc35-5215-48ab-8db7-06af99fcb358___FREC_Scab 2966.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491943359375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0395b847-2c73-4674-826f-33a6afb5b4fe___FREC_Scab 3287.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\03eccb1a-0368-4ac7-9f48-7546037b775a___FREC_Scab 3334.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0537ad56-3d24-4e97-a947-65b9b37f8988___FREC_Scab 3079.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\058d5e64-2c57-45ba-94cb-ac83fd1885a0___FREC_Scab 3181.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496337890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0631708e-5bac-4611-8ff9-6d5ee87ce3b3___FREC_Scab 3252.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49462890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0672ab32-9fce-41f3-ae69-e39c48a0a292___FREC_Scab 3347.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\06cf74b6-d895-4a09-b3b1-bc63579f8c33___FREC_Scab 3128.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\073b509f-c1ea-4e61-881b-2e874c5f4199___FREC_Scab 3286.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\075b1885-250b-4b3e-8168-e54efdbb04e8___FREC_Scab 3173.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0812e1e4-6d1b-4264-8f23-6519354fc5a6___FREC_Scab 3293.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.48974609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497314453125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0896ecbc-1af2-4868-8279-ed302acb29bc___FREC_Scab 3339.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\08c42d78-aa7b-4106-b0c1-b260f898dcba___FREC_Scab 3151.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498779296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\095c9131-a0cb-47de-898a-f9371f208c01___FREC_Scab 3109.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491455078125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4931640625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\09ba6ad9-aa8d-4493-b1bf-818a4b30c4aa___FREC_Scab 2981.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\09e40e4f-f8bc-4537-b20d-0b244760dbf4___FREC_Scab 3216.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493896484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0a14783a-838a-4d4f-a671-ff98011714c6___FREC_Scab 3288.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495361328125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0a5e9323-dbad-432d-ac58-d291718345d9___FREC_Scab 3417.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492431640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0a6812de-7416-4ffe-aba9-307599a02c84___FREC_Scab 2973.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0a769a71-052a-4f19-a4d8-b0f0cb75541c___FREC_Scab 3165.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.48974609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0b170906-9436-4c0d-84c1-c396ad9d909b___FREC_Scab 3101.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0b1e31fa-cbc0-41ed-9139-c794e6855e82___FREC_Scab 3089.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0b4a52e3-e15e-4117-b2e8-7cdb5dca3ce9___FREC_Scab 3137.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.495361328125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.48876953125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4931640625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0c620ec5-11cf-4120-94ab-1311e99df147___FREC_Scab 3131.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49462890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0cbfa4fa-63d8-43ce-9385-ff140e524b69___FREC_Scab 3164.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0d3c0790-7833-470b-ac6e-94d0a3bf3e7c___FREC_Scab 2959.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496337890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0d8d5b80-962d-4381-8d3b-9eca3f2f1bb0___FREC_Scab 3449.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.490966796875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493408203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0db71c1d-93d7-4481-b0d0-b73f995131a9___FREC_Scab 2976.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491455078125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493896484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0e90fe4a-e8b6-4186-9429-a9fea180af9a___FREC_Scab 3391.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\0ea78733-9404-4536-8793-a108c66269b3___FREC_Scab 3145.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\10072248-60e2-4190-b4df-14e8ab61008c___FREC_Scab 3445.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\106aaa5f-c98d-482d-88ef-8e5170e9072d___FREC_Scab 3489.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5009765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\11c50257-617e-4a6a-a996-2b195af9ada4___FREC_Scab 3462.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\11f5b020-3dfd-400c-9819-7d229bc5f929___FREC_Scab 2945.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492431640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49462890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\12bc3d5c-2409-426e-b6cb-a08cbf488153___FREC_Scab 3154.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\133c27cd-57f6-4790-b446-972327e13194___FREC_Scab 3362.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4892578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4921875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\13b10b04-7da6-4d34-8b43-258239a25ffd___FREC_Scab 2990.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.490966796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49169921875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\13b16e68-c82c-4de8-ab34-877ff352e821___FREC_Scab 3180.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.505859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\13f31401-f65a-4025-823a-4f2738e8bff9___FREC_Scab 3062.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\14c623e5-051c-42f6-9e4f-f7a93e6a723c___FREC_Scab 2965.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1547f817-6a4d-4cbc-8ce0-7dff293562ee___FREC_Scab 3194.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492431640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\154842bb-6ee3-4176-9007-cf7a43cfe140___FREC_Scab 3434.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.489990234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49560546875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\15bfa086-7d4a-43c0-800d-2fe8255ba50c___FREC_Scab 3150.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.505859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\162d8ca4-7cd3-46f1-904f-09721df3e498___FREC_Scab 3336.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1637ad84-640c-41e7-9be7-6d8e7769b875___FREC_Scab 3110.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49072265625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49462890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\176a93ed-6c2d-4828-ada1-87f1688b509b___FREC_Scab 3083.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.489501953125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\18ab74ed-8e95-4787-b2e1-1283594bd00b___FREC_Scab 3012.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\18e95262-fb0a-472c-93ab-e03138a360dc___FREC_Scab 3366.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\18ea82fd-4e16-416f-8ad9-54e0f6601693___FREC_Scab 3127.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498291015625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1962d1ec-fb66-4583-b631-81cd23ecf063___FREC_Scab 3238.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1a21aabb-6f74-4644-8d9e-a517568b7e9c___FREC_Scab 3095.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1a304331-98b5-473f-bbb1-c33b8441052a___FREC_Scab 3296.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50732421875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1a4047d7-23d6-4bba-ba10-b6e7005ea01b___FREC_Scab 3193.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49072265625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497802734375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1a41bab0-45e0-4dda-a798-9bf4a998f1b6___FREC_Scab 3450.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1b1004c8-99e9-4c85-8fe5-b1c11d558cf8___FREC_Scab 3300.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1bc60205-27cc-4d10-bc87-7e968573e5d5___FREC_Scab 3531.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49072265625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493408203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1bcc3b5d-7e00-43fb-983e-95ae271a715b___FREC_Scab 3061.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1c10ab31-02b9-4008-b66f-9b44d8a9d323___FREC_Scab 3084.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492919921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1cb869ea-0a4c-47d7-9def-a88c16b72ddc___FREC_Scab 3350.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1cdf2779-8cb1-4ae4-be70-b0eeb1abb0f8___FREC_Scab 3370.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1ceeeee0-40bd-4ac9-8a57-59385bf5df8a___FREC_Scab 3001.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1d81b4c1-072d-4cf7-b1ca-ce43f59822d8___FREC_Scab 3406.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49267578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1d9d67e2-5603-4710-ae2b-6cb0b922ae61___FREC_Scab 3122.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1f6abf22-93fa-48f0-a509-cc3e210f75f0___FREC_Scab 3172.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5009765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1f97d75c-db85-4344-8687-82ca56454d17___FREC_Scab 3408.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5009765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\1f98b949-4df2-45cf-8572-3b4a753be21a___FREC_Scab 2907.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.491455078125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4892578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.492431640625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\201d8b27-5a38-43e5-8065-f7fe039ad781___FREC_Scab 3058.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\20f4f8d1-7527-420b-a90d-e17b9e45549a___FREC_Scab 2997.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4931640625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\222a9802-f14c-433e-9d18-d0668ed3c279___FREC_Scab 3239.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\22c12d6a-3c17-45be-b53b-f17f1b3f5168___FREC_Scab 3206.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492919921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49462890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\233b7aec-ccec-47a3-b5bd-27e154d7a8f7___FREC_Scab 2912.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49267578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497314453125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\23466313-6a2c-46e7-ad89-1f95dd2d3b40___FREC_Scab 3517.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49560546875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\23576562-df0c-46bb-8c50-1bf03412097f___FREC_Scab 3086.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\23f31e0d-3330-4752-9f83-8aba28c90ccb___FREC_Scab 3178.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5078125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5078125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5078125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.505859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2438c1f0-556e-4575-b382-96e17f908e34___FREC_Scab 3230.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491943359375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\246c33b0-fac8-4cca-ae8b-17947338b8b2___FREC_Scab 3091.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.505859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50341796875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\24d43ad3-24e6-4236-8ef7-59b268520ca3___FREC_Scab 3533.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491455078125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495361328125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\252087d7-57c9-4ebe-b6c4-840d6c5dfcb1___FREC_Scab 3329.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\258ce9eb-2b67-475b-b09c-0bc83b0987f1___FREC_Scab 3033.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\25aeb397-bc36-4fe5-affe-6b8195d4f282___FREC_Scab 3494.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\268a2ad1-d649-4ec0-add3-61cc8f54f479___FREC_Scab 3235.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\26a31865-1d42-4bd6-8b67-02cbedfd6f64___FREC_Scab 3516.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492919921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\270dd6be-95f4-4fd1-8423-b698663b3f72___FREC_Scab 2954.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\27338275-3c75-4bbf-8d74-7b90e9d224d3___FREC_Scab 3269.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498779296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\276ed34e-9987-4b38-b83b-8626504fc204___FREC_Scab 3050.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\29ab8216-ec38-4efd-9c77-21068fa899a4___FREC_Scab 3241.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495361328125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2a59761b-c91c-451c-8e13-d9dc3aff8d29___FREC_Scab 3503.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2a800c84-902e-4aa8-af13-4e020d6f17dd___FREC_Scab 3124.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2a97b29d-8a63-47ab-bd5b-c14832a586c8___FREC_Scab 3242.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494873046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2ae81857-0615-4a6a-8d13-1ace0c62284d___FREC_Scab 2992.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495361328125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2bc018ba-3c49-4cf4-9411-a93b7b196f45___FREC_Scab 3326.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2bc50b52-0d7d-41a3-be8a-8d070341d87f___FREC_Scab 3476.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2bfd8ee0-af6b-42fd-ae61-fc5e92ec1b67___FREC_Scab 2988.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2c648fcd-d637-4559-beaa-9dd6079646fb___FREC_Scab 3213.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492431640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2c7ca7c8-1a6c-4811-b9b0-b054c11a5397___FREC_Scab 3260.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495849609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2c89ceaf-748c-4371-80d0-d01855f04a92___FREC_Scab 2962.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2d329823-7ad5-4189-89b7-4bdf24f9c393___FREC_Scab 3507.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2d4c8a12-a34c-4c8b-b357-271d87532ece___FREC_Scab 3090.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2d5265d2-be99-4e9f-a085-d309cc01b751___FREC_Scab 3023.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498291015625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2dd8b8f8-46b0-4bc6-b817-ea7163f4b28b___FREC_Scab 3473.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2e264ee0-7679-4ad2-a19a-1ac4d2e84079___FREC_Scab 2984.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494873046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2f1e68c0-c059-46fd-bbf3-f160817abdc3___FREC_Scab 3535.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4990234375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\2f668a95-80ab-40ac-98ef-657bd85b668b___FREC_Scab 3247.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\30111fee-0c22-4ca4-aeb4-ac14a9a5d651___FREC_Scab 3097.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\320dff9e-6d59-4bec-9e7c-930444343e3b___FREC_Scab 3398.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\321c7135-853f-444d-9952-a893e660d966___FREC_Scab 2958.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\32454154-edbf-464f-8097-e99a3d9a15af___FREC_Scab 2936.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\32550bbb-cdf1-4805-8167-27dc5a8e87d2___FREC_Scab 3195.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\334f8e1a-5989-476e-88f4-8a45c304e12c___FREC_Scab 3035.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\33ebf0dd-f971-4f11-aa93-45df7d55a9ea___FREC_Scab 3182.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498291015625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\34c2823b-d1c5-4bd8-a5a7-74bdef959e10___FREC_Scab 3484.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\34c37353-8429-499e-bd38-ac7501f79e90___FREC_Scab 3501.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493408203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3523d2d8-0da9-4b83-b09d-21bd96860a3d___FREC_Scab 3499.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\352a5659-3552-4e94-8333-c3715d38cc27___FREC_Scab 3049.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\35694cb9-efe9-441a-a810-13e065de7925___FREC_Scab 3320.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498291015625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\35fde58e-46ea-4d1b-9580-ead7a2d0cb3b___FREC_Scab 2952.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3636b2d7-b888-437b-b4e3-a8af4bb62763___FREC_Scab 3148.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3652fd23-ba4c-4958-8db8-3aff8f614dfd___FREC_Scab 3377.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5009765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\36d99a07-4a43-4416-b204-6886f71d5039___FREC_Scab 3294.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5068359375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\37659856-0fc8-430b-871a-af4f0b557e49___FREC_Scab 3081.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\376aaef3-8649-43aa-89f8-166bd349a3d3___FREC_Scab 3064.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497802734375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\38e76f0a-63cb-460a-b0fa-f20e561dc2c0___FREC_Scab 3481.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497802734375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3bf2f5f8-4578-405a-88c6-c5338620a078___FREC_Scab 3059.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3c27bbd7-b305-4ab0-8a85-5061363cf632___FREC_Scab 3183.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497314453125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3c2f46e3-9f96-4912-a9d5-7a046aa6a1b2___FREC_Scab 2967.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492431640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494384765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3d34bd1c-fae9-446a-a629-147b5e8d5d6b___FREC_Scab 3103.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3dd3d59c-be2a-4f29-8fa1-d4f37d7fb894___FREC_Scab 3412.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.495361328125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3eb26abb-a392-4cc4-9be2-d5e4bb8f3660___FREC_Scab 2969.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4921875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.489501953125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.489990234375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\3f65aa69-06c9-423f-ac7a-e2ab6edf63ca___FREC_Scab 3360.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4098b029-fcda-4d2f-9703-c16e6e5fae49___FREC_Scab 3455.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\40a5e87c-ee32-4d67-9b28-926e94638a1d___FREC_Scab 3251.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497314453125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\40d60cf0-1311-40c7-9e7e-579e74c92027___FREC_Scab 3136.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\40df2c3f-673e-4da8-a172-65fd5a656c1d___FREC_Scab 2957.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497314453125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4147e694-ce1f-47ea-b641-899e60ef3f3a___FREC_Scab 3278.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4151028c-c8bc-4394-b4a7-aff414864c15___FREC_Scab 3418.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\419c16b2-13aa-485b-8342-3760707e21f9___FREC_Scab 3285.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\41c2bb79-44fb-48f4-864f-eec35e3442f5___FREC_Scab 2931.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\41c30a63-9e26-4ced-8110-038a2e36b095___FREC_Scab 3298.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.489501953125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\43712608-0fa2-4be2-91a0-242aca469cb4___FREC_Scab 2985.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.492919921875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\43f68711-decd-4831-bf5c-99fa40abe339___FREC_Scab 3413.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4442b558-4db4-4de3-82c3-7524b59bb315___FREC_Scab 2961.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50244140625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\444c4ed0-3bee-4059-870a-a15a00f0e37e___FREC_Scab 3067.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4990234375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4495850d-4478-4680-a657-c082a8ea69ed___FREC_Scab 3534.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\44b52928-c5dd-48f4-b2c8-b128032c49dd___FREC_Scab 3518.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\44d28651-473c-4e9b-81ec-212893669fba___FREC_Scab 3477.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.491943359375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\44dbb7a4-4c41-4d4c-9e34-9e665a35926c___FREC_Scab 3438.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\44dcf367-d162-407e-8ea8-e363ab8ff5c4___FREC_Scab 3282.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50830078125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50732421875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5087890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50537109375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\45000608-507a-46f5-be52-3ee24d0fb47d___FREC_Scab 3113.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498779296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4512edee-9d3b-451e-845d-86666feebe99___FREC_Scab 3328.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\453b09e4-6469-47f9-8599-f87e1d6eddf3___FREC_Scab 3048.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49609375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\45512c84-e453-459c-b12f-1d08ce44001b___FREC_Scab 3072.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.495361328125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493408203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4555c009-6c33-4913-accc-fd1a8355646b___FREC_Scab 2929.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496337890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\45a699f2-a02d-4f1f-b628-6d445c58a595___FREC_Scab 3291.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50244140625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\45e34a1f-1d46-42e8-921d-c82f2c9e7cd1___FREC_Scab 3228.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5068359375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\45ee8aaa-1a08-46ed-8ac8-bba8e40c61d6___FREC_Scab 2986.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.505859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5029296875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\461eeeb9-5bf1-4c0a-a7dd-6967917b4537___FREC_Scab 3098.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498291015625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4931640625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\462f0ef8-5460-4f5c-8935-62a204d3fc08___FREC_Scab 2924.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.490478515625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494384765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\470bece4-7eb2-4ec1-917a-278559afe463___FREC_Scab 3250.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49658203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\474cf33e-0289-4014-bb8a-8004b87b471b___FREC_Scab 3425.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\47b3d8bb-2461-4593-a0fe-a6adf0925a9a___FREC_Scab 2974.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5009765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\47ebb7a4-a8e0-4a57-95e5-dd8e9d1235a2___FREC_Scab 3147.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\48420763-bd18-49b4-9ab4-69319b5733f2___FREC_Scab 3201.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.497802734375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\48dcb319-8b65-4bac-bba4-aa8ffa8abdd0___FREC_Scab 3519.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\48e62e54-d02a-41bb-8486-234408706e69___FREC_Scab 3190.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.498046875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4940cd87-695e-4f4d-8a45-5490812447cc___FREC_Scab 3044.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\495816a8-4d85-47a5-9aca-a09f3f30a068___FREC_Scab 3443.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4a50158d-dcd0-4a1f-885e-2d9b16a4e344___FREC_Scab 3205.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.501953125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4a7f12ff-a785-4d12-8943-f1644789a21b___FREC_Scab 2916.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49267578125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49560546875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4abca5eb-2376-4551-be42-25bbb5400fc7___FREC_Scab 3268.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4b4b59d5-3c6d-4ce5-b349-616fecb850ff___FREC_Scab 3447.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499267578125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4b51cc5d-4122-451b-8598-81ea29dc7cd4___FREC_Scab 3290.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4b7c40cd-b145-4945-b649-3576a1d898dc___FREC_Scab 3343.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494140625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4990234375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4bb38e05-1d5a-40c6-8638-10db134db682___FREC_Scab 3390.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4912109375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.495361328125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4be9d1d9-2170-4856-a81e-e53e7aa5dbf7___FREC_Scab 3082.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493408203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4d02c4a9-4b0d-4b4b-9695-91f08228ee53___FREC_Scab 3274.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.495361328125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.494384765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.490966796875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.493408203125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4d3bcf15-cc49-4189-82e1-780efdf625a8___FREC_Scab 3254.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49755859375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496826171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4e2c27a7-4be1-4c86-a07b-bc2a64c1bff9___FREC_Scab 3018.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.499755859375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497802734375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\4e770559-e332-470e-aae3-c7ad0399dd20___FREC_Scab 3513.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\50dca3b7-fe83-426b-9fa7-a4e80df022aa___FREC_Scab 3488.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50537109375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50390625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50634765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\51530f6a-2bee-4008-8e77-eeda281e9195___FREC_Scab 3209.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\517d0958-b10e-4260-a736-7a4bbb9706c0___FREC_Scab 3497.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.497802734375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\518ab601-3736-4d3b-9770-a0efba601c0e___FREC_Scab 3231.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.5
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.494873046875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496826171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\51929389-451f-4c78-a66b-b644e82a33b6___FREC_Scab 3528.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.4951171875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.499755859375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\52d5723a-b498-4759-89a1-a7d815689716___FREC_Scab 3034.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5029296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50048828125
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\53035d10-9f2b-4c90-ab75-dfde2a9af82f___FREC_Scab 2915.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50048828125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.498779296875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.49853515625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\5345e6fb-1829-457f-ac86-6683d762c9ea___FREC_Scab 3482.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50146484375
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5009765625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.5
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\536ce9e9-6c98-42c6-9447-f38073b3e9da___FREC_Scab 3222.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.501953125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49462890625
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4990234375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\537873ed-fc63-4df3-bb6a-a5bf4c742619___FREC_Scab 3505.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4990234375
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49951171875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.499267578125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.493896484375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.496337890625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\53c67c39-c05f-4b2e-939e-23d44a32efac___FREC_Scab 3087.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.4970703125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.49853515625
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.496337890625
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.492919921875
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4951171875
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\53d37faf-7a68-4fe2-ac1f-5438637742d4___FREC_Scab 3080.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.49560546875
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.489501953125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.494384765625
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\53fe6519-da0a-4183-80d6-a18828a33223___FREC_Scab 3283.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.50439453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.50341796875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.5048828125
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49658203125
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.50146484375
+      }
+    ]
+  },
+  {
+    "image": "Plantvillage\\Apple___Apple_scab\\550b0aab-e777-4942-a186-fc910e0fa89b___FREC_Scab 3253.JPG",
+    "disease_folder": "Apple___Apple_scab",
+    "labels": [
+      {
+        "symptom": "Green",
+        "confidence": 0.497314453125
+      },
+      {
+        "symptom": "Growth",
+        "confidence": 0.498046875
+      },
+      {
+        "symptom": "Spots",
+        "confidence": 0.495849609375
+      },
+      {
+        "symptom": "Twisting",
+        "confidence": 0.49365234375
+      },
+      {
+        "symptom": "Yellow",
+        "confidence": 0.4970703125
+      }
+    ]
+  }
+]

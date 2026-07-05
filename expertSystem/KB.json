@@ -1,0 +1,453 @@
+{
+    "symptoms": {
+      "Stunted": [{}],
+
+      "Wilt": [
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Wilt", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Wilt", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Wilt", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Yellow": [
+        {"plant": "Orange", "disease": "Citrus Greening", "symptom": "Yellow", "condtion": "disease", "type": "bacterial"},
+
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Yellow", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Yellow", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Yellow", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Two Spotted Spider Mite", "symptom": "Yellow", "condition": "pest attack"},
+
+        {"plant": "Tomato", "disease": "Mosaic Virus", "symptom": "Yellow", "condition": "disease", "type": "viral"}
+      ],
+
+      "Patches": [
+        {"plant": "Orange", "disease": "Citrus Greening", "symptom": "Patches", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Black Lesions": [
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Black Lesions", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Black Lesions", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Black Lesions", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Target Spot", "symptom": "Black Lesions", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Green Lesions": [
+        {"plant": "Grape", "disease": "Isariopsis Leaf Spot", "symptom": "Green Lesions", "condition": "disease", "type": "fungal"},
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Green Lesions", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Green Lesions", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Mosaic Virus", "symptom": "Green Lesions", "condition": "disease", "type": "viral"}
+      ],
+
+      "Brown Lesions": [
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Brown Lesions", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Yellow Lesions": [
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Yellow Lesions", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Elliptical Lesions": [
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Elliptical Lesions", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Parallel Lesions": [
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Parallel Lesions", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Green Stripe": [
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Green Stripe", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Growth" : [{}],
+
+      "Sticky": [{}],
+
+      "Patterns": [{}],
+
+      "Mottling": [
+        {"plant": "Tomato", "Disease": "Two Spotted Spider Mite", "symptom": "Mottling", "condition": "pest attack"},
+        {"plant": "Tomato", "disease": "Mosaic Virus", "symptom": "Mottling", "condition": "disease", "type": "viral"}
+      ],
+
+      "Uneven Mottling": [
+        {"plant": "Orange", "disease": "Citrus Greening", "symptom": "Uneven Mottling", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Distortion": [
+         {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Distortion", "condition": "disease", "type": "fungal"},
+
+         {"plant": "Tomato", "Disease": "Two Spotted Spider Mite", "symptom": "Distortion", "condition": "pest attack"},
+
+         {"plant": "Tomato", "disease": "Mosaic Virus", "symptom": "Distortion", "condition": "disease", "type": "viral"}
+      ],
+
+      "Webbing": [
+        {"plant": "Tomato", "Disease": "Two Spotted Spider Mite", "symptom": "Webbing", "condition": "pest attack"}
+      ],
+
+      "Sunscald": [
+         {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Sunscald", "condition": "disease", "type": "fungal"},
+         {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Sunscald", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Brown": [
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Brown", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Brown", "condition": "disease", "type": "bacterial"},
+        
+        {"plant": "Tomato", "disease": "Early Blight", "symptom": "Brown", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Brown", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Brown", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Brown", "condition": "physiological", "type": "environmental"},
+
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Brown", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Brown", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Two Spotted Spider Mite", "symptom": "Brown", "condition": "pest attack"},
+
+        {"plant": "Alstonia Scholaris", "disease": "Leaf Galls", "symptom": "Brown", "condition": "physiological", "type1": "pest attack", "type2": "fungal", "type3": "bacterial", "type4":"viral"}
+      ],
+
+      "Orange-Brown": [
+        {"plant": "Corn", "disease": "Rust", "symptom": "Orange-Brown", "condition": "disease", "type": "fungal"},
+        {"plant": "Apple", "disease": "Rust", "symptom": "Orange-Brown", "condition": "disease", "type": "fungal"}
+      ]
+      ,
+
+      "Curled": [
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Curled", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Yellow Leaf Curl", "symptom": "Curled", "condition": "disease", "type": "viral"}
+      ],
+
+      "Twisted": [{}],
+
+      "Wrinkled": [
+        {"plant": "Alstonia Scholaris", "disease": "Leaf Galls", "symptom": "Wrinkled", "condition": "physiological", "type1": "pest attack", "type2": "fungal", "type3": "bacterial", "type4":"viral"}
+      ],
+
+      "Puckered": [
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Puckered", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Yellow Leaf Curl", "symptom": "Puckered", "condition": "disease", "type": "viral"}
+      ],
+
+      "Watery": [
+        {"plant": "Tomato", "disease": "Late Blight", "symptom": "Watery", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Late Blight", "symptom": "Watery", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Watery", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Watery", "condition": "disease", "type": "bacterial"},
+        {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Watery", "condition": "disease", "type": "bacterial"},
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Watery", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Milky": [{}],
+
+      "Halo": [
+        {"plant": "Tomato", "disease": "Late Blight", "symptom": "Halo", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Late Blight", "symptom": "Halo", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Halo", "condition": "disease", "type": "bacterial"},
+        {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Halo", "condition": "disease", "type": "bacterial"},
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Halo", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Halo", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Target Spot", "symptom": "Halo", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Canker": [{}],
+
+      "Cracked": [{}],
+
+      "Sunken":[
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Sunken", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Sunken", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Sunken", "condition": "physiological", "type": "environmental"}
+      ],
+
+      "Discolored" : [
+        {"plant": "Corn", "disease": "Rust", "symptom": "Discolored", "condition": "disease", "type": "fungal"},
+        {"plant": "Apple", "disease": "Rust", "symptom": "Discolored", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Grape", "disease": "Isariopsis Leaf Spot", "symptom": "Discolored", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Discolored", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Discolored", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Discolored Streaks": [
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Discolored Streaks", "condition": "physiological", "type": "environmental"}
+      ],
+
+      "Oozing": [{}],
+
+      "Black Specks": [
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Black Specks", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Yellow Specks": [
+        {"plant": "Tomato", "Disease": "Two Spotted Spider Mite", "symptom": "Yellow Specks", "condition": "pest attack"}
+      ],
+
+      "Golden Specks": [
+        {"plant": "Tomato", "Disease": "Two Spotted Spider Mite", "symptom": "Golden Specks", "condition": "pest attack"}
+      ],
+
+      "Scorched": [
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Scorched", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Scorched", "condition": "disease", "type": "bacterial"},
+        {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Scorched", "condition": "disease", "type": "bacterial"},
+        {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Scorched", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Scorched", "condition": "physiological", "type": "environmental"}
+      ], 
+
+      "Black": [
+        {"plant": "Corn", "disease": "Rust", "symptom": "Black", "condition": "disease", "type": "fungal"},
+        {"plant": "Apple", "disease": "Rust", "symptom": "Black", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Early Blight", "symptom": "Black", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Early Blight", "symptom": "Black", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Black", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Mushrooms": [{}],
+
+      "Puffballs": [{}],
+
+      "Crust": [{}],
+
+      "Spots": [
+        {"plant": "Corn", "disease": "Rust", "symptom": "Spots", "condition": "disease", "type": "fungal"},
+        {"plant": "Apple", "disease": "Rust", "symptom": "Spots", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Grape", "disease": "Black Measles", "symptom": "Spots", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Spots", "condition": "disease", "type": "bacterial"},
+        {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Spots", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Spots", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Spots", "condition": "physiological", "type": "environmental"},
+
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Spots", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Spots", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Powdery": [
+        {"plant": "Corn", "disease": "Rust", "symptom": "Powdery", "condition": "disease", "type": "fungal"},
+        {"plant": "Apple", "disease": "Rust", "symptom": "Powdery", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Powdery", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Cotton": [{}],
+
+      "Drooping": [{}],
+
+      "Tan": [
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Tan", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Tan", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Tan", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Septoria Leaf Spot", "symptom": "Tan", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Bleached": [{}],
+
+      "Twisting": [{}],
+
+      "Gray": [{}],
+
+      "Fuzzy": [
+        {"plant": "Tomato", "disease": "Late Blight", "symptom": "Fuzzy", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Late Blight", "symptom": "Fuzzy", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Fuzzy", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Rings": [
+        {"plant": "Tomato", "disease": "Early Blight", "symptom": "Rings", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Early Blight", "symptom": "Rings", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Target Spot", "symptom": "Rings", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Pale": [{}],
+
+      "Blotchy":[
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Blotchy", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Blotchy", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Orange", "disease": "Citrus Greening", "symptom": "Blotchy", "condition": "disease", "type": "bacterial"},
+
+         {"plant": "Squash", "disease": "Powdery Mildew", "symptom": "Blotchy", "condition": "disease", "type": "fungal"},
+
+         {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Blotchy", "condition": "physiological", "type": "environmental"}
+      ],
+
+      "Death": [{}],
+
+      "Red": [{}],
+
+      "Burning": [{}],
+
+      "Streaking": [{}],
+
+      "Decay": [{}],
+
+      "Blue": [{}],
+
+      "Thin": [{}],
+
+      "Deformed": [
+        {"plant": "Tomato", "disease": "Yellow Leaf Curl", "symptom": "Deformed", "condition": "disease", "type": "viral"},
+
+        {"plant": "Alstonia Scholaris", "disease": "Leaf Galls", "symptom": "Deformed", "condition": "physiological", "type1": "pest attack", "type2": "fungal", "type3": "bacterial", "type4":"viral"}
+      ],
+
+      "Patten" : [{}],
+
+      "Wart": [
+        {"plant": "Alstonia Scholaris", "disease": "Leaf Galls", "symptom": "Wart", "condition": "physiological", "type1": "pest attack", "type2": "fungal", "type3": "bacterial", "type4":"viral"}
+      ],
+
+      "Tumor": [{}],
+
+      "Swollen": [{}],
+
+      "Green": [{}],
+
+      "Cluster": [{}],
+
+      "Thorny": [{}],
+
+      "Tangled": [{}],
+
+      "Fissure": [{}],
+
+      "Concentric": [{}],
+
+      "Purple": [
+        {"plant": "Peach", "disease": "Bacterial Spot", "symptom": "Purple", "condition": "disease", "type": "bacterial"},
+        {"plant": "Strawberry", "disease": "Leaf Scorch", "symptom": "Purple", "condition": "physiological", "type": "environmental"}
+      ],
+
+      "Green Mold": [
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Green Mold", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Brown Mold": [
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Brown Mold", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Gray Mold": [
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Gray Mold", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Purple Mold": [
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Purple Mold", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Shriveled": [
+        {"plant": "Tomato", "disease": "Late Blight", "symptom": "Shriveled", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Late Blight", "symptom": "Shriveled", "condition": "disease", "type": "fungal"},
+
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Shriveled", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Collapsed": [
+        {"plant": "Tomato", "disease": "Late Blight", "symptom": "Collapsed", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Late Blight", "symptom": "Collapsed", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Blister": [
+        {"plant": "Alstonia Scholaris", "disease": "Leaf Galls", "symptom": "Blister", "condition": "physiological", "type1": "pest attack", "type2": "fungal", "type3": "bacterial", "type4":"viral"}
+      ],
+
+      "Split": [{}],
+
+      "Soft": [{}],
+
+      "Mushy": [{}],
+
+      "Spores": [
+        {"plant": "Corn", "disease": "Northern Leaf Blight", "symptom": "Spores", "condition": "disease", "type": "fungal"}
+      ],
+
+      "Rotting": [
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Rotting", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Rotting", "condition": "disease", "type": "bacterial"},
+
+        {"plant": "Tomato", "disease": "Leaf Mold", "symptom": "Rotting", "condition": "disease", "type": "fungal"}
+
+        
+      ],
+
+      "Residue": [{}],
+
+      "Black Veins":[
+        {"plant": "Apple", "disease": "Black Rot", "symptom": "Black Veins", "condition": "disease", "type": "bacterial"},
+        {"plant": "Grape", "disease": "Black Rot", "symptom": "Black Veins", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Yellow Vein": [
+        {"plant": "Orange", "disease": "Citrus Greening", "symptom": "Yellow Vein", "condition": "disease", "type": "bacterial"},
+        {"plant": "Tomato", "disease": "Yellow Leaf Curl", "symptom": "Yellow Vein", "condition": "disease", "type": "viral"}
+      ],
+
+      "Greasy": [
+      {"plant": "Tomato", "disease": "Late Blight", "symptom": "Greasy", "condition": "disease", "type": "fungal"},
+      {"plant": "Potato", "disease": "Late Blight", "symptom": "Greasy", "condition": "disease", "type": "fungal"},
+
+      {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Greasy", "condition": "disease", "type": "bacterial"},
+      {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Greasy", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Oily": [
+      {"plant": "Tomato", "disease": "Late Blight", "symptom": "Oily", "condition": "disease", "type": "fungal"},
+      {"plant": "Potato", "disease": "Late Blight", "symptom": "Oily"},
+
+      {"plant": "Tomato", "disease": "Bacterial Spot", "symptom": "Oily", "condition": "disease", "type": "bacterial"},
+      {"plant": "Pepper", "disease": "Bacterial Spot", "symptom": "Oily", "condition": "disease", "type": "bacterial"}
+      ],
+
+      "Circular": [
+      {"plant": "Tomato", "disease": "Early Blight", "symptom": "Circular", "condition": "disease", "type": "fungal"},
+      {"plant": "Potato", "disease": "Early Blight", "symptom": "Circular", "condition": "disease", "type": "fungal"}
+      ],
+
+      "White Mold": [
+        {"plant": "Tomato", "disease": "Early Blight", "symptom": "White Mold", "condition": "disease", "type": "fungal"},
+        {"plant": "Potato", "disease": "Early Blight", "symptom": "White Mold", "condition": "disease", "type": "fungal"}
+      ]
+      },
+
+    "priors": {
+
+    },
+
+    "likelihood": {
+      
+    }
+      
+    }

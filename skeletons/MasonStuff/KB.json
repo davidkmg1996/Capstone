@@ -1,0 +1,78 @@
+{
+  "Pepper": {
+    "Pepper__bell___Bacterial_spot": {
+      "name": "Pepper Bell Bacterial Spot",
+      "symptoms": ["green to dark brown lesions, stem canker, tattered appearance on affected leafs"],
+      "treatments": ["treat seeds before planting, streptomycin, remove infected crop and weeds"]
+    },
+    "Pepper__bell___healthy": {
+      "name": "Pepper Bell Healthy",
+      "symptoms": [""],
+      "treatments": [""]
+    }
+  },
+  "Potato": {
+    "Potato___Early_blight": {
+      "name": "Potato Early Blight",
+      "symptoms": ["round brown spots on leafs, tissue around infection is yellowing, infected leafs browning and falling"],
+      "treatments": ["cover the soil under the plants with mulch, water at the base of the plant, pruning the bottom leaves"]
+    },
+    "Potato___Late_blight": {
+      "name": "Potato Late Blight",
+      "symptoms": ["dark lesions with a greasy appearance, fuzzy growth on the underside of the leaf, cool weather"],
+      "treatments": ["removed disease leafs or plants, water at the base of the plant, cover the soil under the plants with mulch"]
+    },
+    "Potato___healthy": {
+      "name": "Potato Healthy",
+      "symptoms": [""],
+      "treatments": [""]
+    }
+  },
+  "Tomato": {
+    "Tomato_Bacterial_spot": {
+      "name": "Tomato Bacterial Spot",
+      "symptoms": ["green to dark brown lesions, stem canker, tattered appearance on affected leafs"],
+      "treatments": ["washing seeds in diluted clorox, streptomycin, remove infected crop and weeds"]
+    },
+    "Tomato_Early_blight": {
+      "name": "Tomato Early Blight",
+      "symptoms": ["round brown spots on leafs, tissue around infection is yellowing, infected leafs browning and falling"],
+      "treatments": ["cover the soil under the plants with mulch, water at the base of the plant, pruning the bottom leaves"]
+    },
+    "Tomato_Late_blight": {
+      "name": "Tomato Late Blight",
+      "symptoms": ["dark lesions with a greasy appearance, fuzzy growth on the underside of the leaf, cool weather"],
+      "treatments": ["removed disease leafs or plants, water at the base of the plant, cover the soil under the plants with mulch"]
+    },
+    "Tomato_Leaf_Mold": {
+      "name": "Tomato Leaf Mold",
+      "symptoms": [""],
+      "treatments": [""]
+    },
+    "Tomato_Septoria_leaf_spot": {
+      "name": "Tomato Septoria Leaf Spot",
+      "symptoms": ["circular spots, many spots on one leaf, leaves turn yellowish to brown"],
+      "treatments": ["fungicidal sprays, removed diseased leaves, improve air circulation around the plants"]
+    },
+    "Tomato_Spider_mites_Two_spotted_spider_mite": {
+      "name": "Tomato Spider Mites Two Spotted Spider Mite",
+      "symptoms": ["tiny white or yellow spots, leaves looked blonde or bleached, webbing around the plant"],
+      "treatments": ["keep plants well-watered, provide propure mulching, physically remove the mites"]
+    },
+    "Tomato__Target_Spot": {
+      "name": "Tomato Target Spot",
+      "symptoms": ["brown or black spots the size of a pencil tip, lesions with dark centers, infected leaves falling"],
+      "treatments": ["improve air circulation around the plant, avoid over-fertilization, apply fungicides"]
+    },
+    "Tomato__Tomato_YellowLeaf__Curl_Virus": {
+      "name": "Tomato Yellow Leaf Curl Virus",
+      "symptoms": ["yellowing leaves curling upward, leaves are smaller than normal, reduced fruit production"],
+      "treatments": ["removing infected plants, remove weeds that can be hosts, mulch underneath the plants"]
+    },
+    "Tomato__Tomato_mosaic_virus": {
+      "name": "Tomato Mosaic Virus",
+      "symptoms": ["mosiac light and dark green pattern on leaves, curled or deformed leaves, yellow streaks"],
+      "treatments": ["treat seeds before planting, sanitize tools, remove infected plants"]
+    }
+  }
+}

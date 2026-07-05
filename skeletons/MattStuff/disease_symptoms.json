@@ -1,0 +1,233 @@
+[
+  {
+    "plant": "Grape",
+    "disease": "Esca (Black Measles or Spanish Measles)",
+    "symptoms": [
+      "Brown",
+      "Black",
+      "Spots",
+      "Red",
+      "Streaking",
+      "Rotting"
+    ]
+  },
+  {
+    "plant": "Grape",
+    "disease": "Leaf blight (Isariopsis Leaf Spot)",
+    "symptoms": [
+      "Brown",
+      "Black",
+      "Red",
+      "Cluster"
+    ]
+  },
+  {
+    "plant": "Cherry (including sour)",
+    "disease": "Powdery mildew",
+    "symptoms": [
+      "Stunted",
+      "Powdery",
+      "Red",
+      "Blister",
+      "Circular"
+    ]
+  },
+  {
+    "plant": "Grape",
+    "disease": "Black rot",
+    "symptoms": [
+      "Brown Lesions",
+      "Brown",
+      "Black",
+      "Spots"
+    ]
+  },
+  {
+    "plant": "Apple",
+    "disease": "Black rot",
+    "symptoms": [
+      "Brown",
+      "Black",
+      "Rings",
+      "Red",
+      "Purple",
+      "Circular"
+    ]
+  },
+  {
+    "plant": "Maize (corn)",
+    "disease": "Common rust",
+    "symptoms": [
+      "Yellow",
+      "Brown",
+      "Black",
+      "Powdery",
+      "Tan",
+      "Red",
+      "Spores"
+    ]
+  },
+  {
+    "plant": "Maize (corn)",
+    "disease": "Northern Leaf Blight",
+    "symptoms": [
+      "Green Lesions",
+      "Tan",
+      "Gray",
+      "Pale",
+      "Green",
+      "Spores"
+    ]
+  },
+  {
+    "plant": "Peach",
+    "disease": "Bacterial spot",
+    "symptoms": [
+      "Brown",
+      "Canker",
+      "Gray",
+      "Purple",
+      "Blister",
+      "Yellow"
+    ]
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Bacterial spot",
+    "symptoms": [
+      "Sunscald",
+      "Halo",
+      "Sunken",
+      "Spots",
+      "Blister",
+      "Greasy"
+    ]
+  },
+  {
+    "plant": "Pepper, bell",
+    "disease": "Bacterial spot",
+    "symptoms": [
+      "Brown Lesions",
+      "Brown",
+      "Canker",
+      "Cracked"
+    ]
+  },
+  {
+    "plant": "Apple",
+    "disease": "Apple scab",
+    "symptoms": [
+      "Yellow",
+      "Growth",
+      "Spots",
+      "Twisting",
+      "Green"
+    ]
+  },
+  {
+    "plant": "Apple",
+    "disease": "Cedar apple rust",
+    "symptoms": [
+      "Yellow",
+      "Patches",
+      "Black",
+      "Spots",
+      "Red",
+      "Spores"
+    ]
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Early blight",
+    "symptoms": [
+      "Yellow",
+      "Brown",
+      "Canker",
+      "Black",
+      "Death",
+      "Red",
+      "Concentric"
+    ]
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Septoria leaf spot",
+    "symptoms": [
+      "Black Specks",
+      "Black",
+      "Spots",
+      "Gray",
+      "Circular"
+    ]
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Late blight",
+    "symptoms": [
+      "Brown Lesions",
+      "Growth",
+      "Brown",
+      "Black",
+      "Spots",
+      "Fuzzy",
+      "Green",
+      "Shriveled",
+      "Greasy"
+    ]
+  },
+  {
+    "plant": "Potato",
+    "disease": "Late blight",
+    "symptoms": [
+      "Growth",
+      "Brown",
+      "Black",
+      "Fuzzy"
+    ]
+  },
+  {
+    "plant": "Tomato",
+    "disease": "Tomato Yellow Leaf Curl Virus",
+    "symptoms": [
+      "Stunted",
+      "Yellow",
+      "Growth",
+      "Tan",
+      "Red"
+    ]
+  },
+  {
+    "plant": "Strawberry",
+    "disease": "Leaf scorch",
+    "symptoms": [
+      "Patches",
+      "Brown",
+      "Death",
+      "Red",
+      "Purple"
+    ]
+  },
+  {
+    "plant": "Potato",
+    "disease": "early blight",
+    "symptoms": [
+      "Yellow",
+      "Brown",
+      "Sunken",
+      "Spots",
+      "Rings",
+      "Concentric"
+    ]
+  },
+  {
+    "plant": "Maize (corn)",
+    "disease": "Cercospora leaf spot",
+    "symptoms": [
+      "Yellow",
+      "Brown",
+      "Brown Lesions",
+      "Halo",
+      "Gray"
+    ]
+  }
+]
